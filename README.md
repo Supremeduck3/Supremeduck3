@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Supremeduck3&count_private=true&include_all_commits=true&theme=dark" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Supremeduck3&stats_format=bytes&theme=dark" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Supremeduck3" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Supremeduck3" width="48%">
 </div>
+
 
 
