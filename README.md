@@ -84,27 +84,7 @@
 
 </div>
 
----
-
-## `◈ CONTRATOS CONCLUÍDOS // PROJETOS`
-
-> *Os fixer do Afterlife sempre têm bons contratos...*
-
-<div align="center">
-
-| NÍVEL | CONTRATO | DESCRIÇÃO | RECOMPENSA |
-|:---:|---|---|:---:|
-| 🔴 LEGENDÁRIO | [🏪 Sistema Lanchonete](https://github.com/Supremeduck3/Sistema-Backend-para-Lanchonete) | Backend completo · pedidos · pagamentos · clientes | 50k €$ |
-| 🟡 ÉPICO | [⚡ Harry Potter API](https://github.com/Supremeduck3/Harry-potter-prisma) | API do grid mágico de Hogwarts | 25k €$ |
-| 🟡 ÉPICO | [🚗 API Carros](https://github.com/Supremeduck3/API-carros) | Frota de veículos do Valentinos | 20k €$ |
-| 🔵 RARO | [🎬 API Filmes](https://github.com/Supremeduck3/api-filmes) | Banco de dados do Holo-Cinema | 15k €$ |
-| 🔵 RARO | [🏥 PokeCenter React](https://github.com/Supremeduck3/PokeCenter_react) | App de criaturas do grid | 10k €$ |
-| ⚪ COMUM | [🧮 Calculadora](https://github.com/Supremeduck3/caculadora) | Ferramenta do mercado negro | 1k €$ |
-
-</div>
-
----
-
+-----------------
 ## `◈ ESTATÍSTICAS DO NETRUNNER`
 
 > *"Os números não mentem. Corpos mentem. Números, não."* — Alt Cunningham
