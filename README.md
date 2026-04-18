@@ -62,13 +62,6 @@ RECOMPENSA : 50.000 €$
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FF0066?style=for-the-badge&logo=postgresql&logoColor=ffffff)
 
-**[ HARDWARE ADICIONAL — DEVOPS & TOOLS ]**
-> *Upgrades do ripperdoc*
-![Git](https://img.shields.io/badge/Git-FCE700?style=for-the-badge&logo=git&logoColor=0d0d0d)
-![VS Code](https://img.shields.io/badge/VS_Code-FCE700?style=for-the-badge&logo=visual-studio-code&logoColor=0d0d0d)
-
----
-
 ## `◈ LOG DE ATIVIDADE RECENTE`
 
 ```bash
