@@ -46,8 +46,6 @@ RECOMPENSA : 50.000 €$
 > *Implantes ópticos que enxergam além do código*
 
 ![React](https://img.shields.io/badge/React-FCE700?style=for-the-badge&logo=react&logoColor=0d0d0d)
-![Next.js](https://img.shields.io/badge/Next.js-FCE700?style=for-the-badge&logo=next.js&logoColor=0d0d0d)
-![TypeScript](https://img.shields.io/badge/TypeScript-FCE700?style=for-the-badge&logo=typescript&logoColor=0d0d0d)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-FCE700?style=for-the-badge&logo=tailwind-css&logoColor=0d0d0d)
 ![HTML5](https://img.shields.io/badge/HTML5-FCE700?style=for-the-badge&logo=html5&logoColor=0d0d0d)
 ![CSS3](https://img.shields.io/badge/CSS3-FCE700?style=for-the-badge&logo=css3&logoColor=0d0d0d)
@@ -58,21 +56,15 @@ RECOMPENSA : 50.000 €$
 ![Node.js](https://img.shields.io/badge/Node.js-00E5FF?style=for-the-badge&logo=node.js&logoColor=0d0d0d)
 ![Python](https://img.shields.io/badge/Python-00E5FF?style=for-the-badge&logo=python&logoColor=0d0d0d)
 ![Express](https://img.shields.io/badge/Express-00E5FF?style=for-the-badge&logo=express&logoColor=0d0d0d)
-![REST API](https://img.shields.io/badge/REST_API-00E5FF?style=for-the-badge&logo=fastapi&logoColor=0d0d0d)
 
 **[ MEMÓRIA CIBERNÉTICA — BANCO DE DADOS ]**
 > *Todo dado tem um preço no mercado negro*
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FF0066?style=for-the-badge&logo=postgresql&logoColor=ffffff)
-![MongoDB](https://img.shields.io/badge/MongoDB-FF0066?style=for-the-badge&logo=mongodb&logoColor=ffffff)
-![Redis](https://img.shields.io/badge/Redis-FF0066?style=for-the-badge&logo=redis&logoColor=ffffff)
 
 **[ HARDWARE ADICIONAL — DEVOPS & TOOLS ]**
 > *Upgrades do ripperdoc*
-
-![Docker](https://img.shields.io/badge/Docker-FCE700?style=for-the-badge&logo=docker&logoColor=0d0d0d)
 ![Git](https://img.shields.io/badge/Git-FCE700?style=for-the-badge&logo=git&logoColor=0d0d0d)
-![Linux](https://img.shields.io/badge/Linux-FCE700?style=for-the-badge&logo=linux&logoColor=0d0d0d)
 ![VS Code](https://img.shields.io/badge/VS_Code-FCE700?style=for-the-badge&logo=visual-studio-code&logoColor=0d0d0d)
 
 ---
@@ -128,8 +120,6 @@ $ cat /var/log/netrunner/supremeduck3.log
 *"Quer fazer negócio? Me encontra no Afterlife. Primeira rodada é por conta da casa."*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FCE700?style=for-the-badge&logo=linkedin&logoColor=0d0d0d)](https://linkedin.com/in/supremeduck3)
-[![Email](https://img.shields.io/badge/Email-00E5FF?style=for-the-badge&logo=gmail&logoColor=0d0d0d)](mailto:seu@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF0066?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://seusite.com)
 
 </div>
 
